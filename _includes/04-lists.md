@@ -1,3 +1,3 @@
-*Cats
-*Basketball
-*Cooking
+* Cats
+* Basketball
+* Cooking
